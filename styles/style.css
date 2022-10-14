@@ -23,7 +23,7 @@ a:hover{
     color:white;
 }
 body{ 
-    background-image:url("/images/BG-btn.jpg");
+    background-image:url("https://github.com/LuisDevLipe/Projeto-1-Rev2/blob/main/images/BG-btn.jpg");
     background-color:grey;
     color:white;
     /* Center and scale the image nicely */
@@ -129,7 +129,7 @@ body{
         width:50%;
     }
     #btn:hover{
-        background-image:url(/images/bgfundo-2.jpg);
+        background-image:url("https://github.com/LuisDevLipe/Projeto-1-Rev2/blob/main/images/bgfundo-2.jpg");
         width:inherit;
         background-position: center;
         background-repeat: no-repeat;
