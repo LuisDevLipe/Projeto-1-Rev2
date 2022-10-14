@@ -1,2 +1,2 @@
 text-img reference:
-![images/wallpaperbetter.com_1920x1080.jpg]
+![/images/wallpaperbetter.com_1920x1080.jpg]
