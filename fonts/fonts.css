@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'roboto';
-    src: url('/fonts/Roboto-Regular.ttf');
+    src: url('https://luisdevlipe.github.io/Projeto-1-Rev2/fonts/Roboto-Regular.ttf');
     font-weight: normal;
     font-style: normal;
     }
 @font-face {
     font-family: 'robotoboldcondensed';
-    src: url('/fonts/Roboto-BoldCondensed.ttf');
+    src: url('https://luisdevlipe.github.io/Projeto-1-Rev2//fonts/Roboto-BoldCondensed.ttf');
     font-weight: normal;
     font-style: normal;
     }
 @font-face {
     font-family: 'robotolight';
-    src: url('/fonts/Roboto-Light.ttf');
+    src: url('https://luisdevlipe.github.io/Projeto-1-Rev2/fonts/Roboto-Light.ttf');
     font-weight: normal;
     font-style: normal;
     }
