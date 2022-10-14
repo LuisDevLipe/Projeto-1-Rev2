@@ -11,6 +11,7 @@ header{
     padding:20px;
     background:linear-gradient(50deg,#fffafa, #94b8f7);
     border:2px solid grey;
+    box-shadow:2px 5px 10px black;
 }
 a{
     color:black;
@@ -18,11 +19,13 @@ a{
     font-weight: 300px;
     margin:40px;
 }
-body{ 
-    background-image:url("bgimg.JPG");
-    background-color:black;
+a:hover{
     color:white;
-    height: 100%;
+}
+body{ 
+    background-image:url("/images/BG-btn.jpg");
+    background-color:blue;
+    color:white;
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
@@ -67,7 +70,7 @@ body{
         font-family:"roboto";
         line-height:25px; 
         font-size:1.3em;   
-    }
+    }     
     ul{
         list-style-type:none;
         margin-top:50px;
@@ -113,8 +116,17 @@ body{
     #btn{
         padding:10px 60px;
         margin:0 auto;
-        background:linear-gradient(45deg,#fb8500,#0077b6);
+        background-color:orange;
         border:1px solid white;
         margin:0 130px;
+    }
+    #btn:hover{
+        background-image:url(/images/bgfundo-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:inherit;
+        color:white;
+        cursor: pointer;
     }
     
