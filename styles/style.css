@@ -23,7 +23,7 @@ a:hover{
     color:white;
 }
 body{ 
-    background-image:url("/images/BG-btn.jpg");
+    background-image:url("https://luisdevlipe.github.io/Projeto-1-Rev2/images/BG-btn.jpg");
     background-color:blue;
     color:white;
     /* Center and scale the image nicely */
