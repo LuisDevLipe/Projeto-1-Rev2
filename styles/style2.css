@@ -1,0 +1,95 @@
+@media screen and (max-width: 600px){
+    body{
+        background-repeat:repeat-y;
+        background-size:cover;
+        backdrop-filter: blur(5px);
+        color:black;
+    }
+}
+@media screen and (max-width: 600px){
+    header{
+        padding:10px;
+    }
+}
+@media screen and (max-width:600px){
+    a{
+        margin:20px;
+    }
+}
+@media screen and (max-width: 600px){
+    main{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+}}
+@media screen and (max-width: 600px){
+    h1{
+        font-size:2em;
+        text-align:left;
+        -webkit-text-stroke:unset;
+        text-shadow:unset;
+        margin-bottom:10px;
+    }
+}
+@media screen and (max-width: 600px){
+    #main_img{
+        
+        display:none;
+        
+    }
+}
+/*@media screen and (max-width:600px) {
+    .main-box {
+        padding:10px;
+        background:radial-gradient( rgb(71, 71, 71), rgb(31, 30, 30));      
+    }
+}*/
+@media screen and (max-width:600px){
+    main{
+        padding:10px 10px;
+        margin:5px 5px;
+        background-color:rgba(255,255,255,0.4);
+        border-radius:5px;
+    }
+}
+@media screen and (max-width:600px){
+    #cite_1{
+        margin:15px 5px 0px 5px;
+    }}
+@media screen and (max-width:600px){
+    .form_box{
+        display:flex;
+        flex-direction:column;
+        padding:15px 0;
+        margin:20px auto;
+        width:100%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    h2{
+        margin-bottom:10px;
+    }
+}
+@media screen and (max-width:600px){
+    #input{
+        margin-top:8px;
+        margin-bottom:8px;
+    }
+}
+/*@media screen and (max-width:600px){
+    .queryresize{
+        width:70%;
+       
+    
+
+    }
+}Quando eu descobrir a resposta eu resolvo ;(*/
+@media screen and (max-width:600px){
+    #cite2{
+        color:white;
+        font-size:0.8em;
+        font-weight:200;
+    }
+}
