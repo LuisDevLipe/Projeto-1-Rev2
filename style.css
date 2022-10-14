@@ -1,0 +1,120 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;    
+}
+header{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+    background:linear-gradient(50deg,#fffafa, #94b8f7);
+    border:2px solid grey;
+}
+a{
+    color:black;
+    font-family:roboto;
+    font-weight: 300px;
+    margin:40px;
+}
+body{ 
+    background-image:url(/images/wallpaperbetter.com_1920x1080.jpg);
+    background-color:#034be7;
+    color:white;
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    /*.bg-image{ 
+        filter:blur(20px);       
+        -webkit-filter: blur(8px);
+    } Blur-não funcional*/
+    main{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        margin: 80px 40px;
+    }    
+    #main-img{
+        border:2px dashed white;
+        border-radius:50px;
+    }
+    aside{
+        display:flex;
+        flex-direction:column;
+        max-width:100%;
+        
+    }
+    h1{
+        font-family:"robotoboldcondensed";
+        font-size:3em;
+        -webkit-text-stroke: 2px rgb(68, 69, 70);
+        text-shadow: 2px 2px black;
+    }
+    .main-box{
+        padding:10px;
+        margin:0 auto;
+        border:2px dashed black;
+        border-radius:15px;
+        background:radial-gradient( rgb(71, 71, 71), rgb(31, 30, 30));
+    }
+
+    p{
+        font-family:"roboto";
+        line-height:25px; 
+        font-size:1.3em;   
+    }
+    ul{
+        list-style-type:none;
+        margin-top:50px;
+    }
+    li{
+        font-family:"robotolight";
+    }
+    #cite-1{
+        margin-top: 20px;
+        border:1px solid orange;
+        padding:5px;
+        border-radius: 10px;
+    }
+    .form_box{
+        padding:4px;
+        background:radial-gradient( rgb(71, 71, 71), rgb(31, 30, 30));
+        width:100%;
+        border:1px solid white;
+        border-radius:15px;
+        margin-top:25px;
+    }
+    h2{
+        font-family:"robotoboldcondensed";
+        font-size:1.6em;
+        font-weight: 200;
+        color: white;
+        margin:0 110px;        
+    }
+    form{
+        text-align:left;
+        font-family:robotolight;
+        margin-top:5px auto;
+    }
+    #input{
+        height:20px;
+        width:60%;
+        padding:5px;
+        margin:5px auto;
+        border:white;
+        border-radius:5px;
+       
+    }
+    #btn{
+        padding:10px 60px;
+        margin:0 auto;
+        background:linear-gradient(45deg,#fb8500,#0077b6);
+        border:1px solid white;
+        margin:0 130px;
+    }
+    
