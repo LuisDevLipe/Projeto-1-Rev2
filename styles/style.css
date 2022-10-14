@@ -19,7 +19,7 @@ a{
     margin:40px;
 }
 body{ 
-    background-image:url("images/bgimg.jpg");
+    background-image:url("/images/bgimg.jpg");
     color:white;
     height: 100%;
     /* Center and scale the image nicely */
